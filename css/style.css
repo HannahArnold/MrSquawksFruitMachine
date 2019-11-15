@@ -1,0 +1,12 @@
+.SlotImages {
+  display: grid, inline-grid;
+  width: 50%;
+  text-align: center;
+}
+
+.Start {
+  display: grid;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
